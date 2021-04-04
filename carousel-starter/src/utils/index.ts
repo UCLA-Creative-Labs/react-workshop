@@ -4,14 +4,10 @@ export interface Profile {
   hobby: string;
 }
 
-function saveNumberToStorage(num: number) {
+export function saveNumberToStorage(num: number) {
   window.localStorage.setItem('num', num.toString());
 }
 
-function getNumberFromStorage(): number {
+export function getNumberFromStorage(): number {
   return Number.parseInt(window.localStorage.getItem('num') ?? '0');
-}
-
-export default {
-  saveNumberToStorage, getNumberFromStorage
 }
