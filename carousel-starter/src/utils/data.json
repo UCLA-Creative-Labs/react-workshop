@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Bryan Pan",
+    "position": "Executive Director",
+    "hobby": "drinking coffee"
+  },
+  {
+    "name": "Arjun Raghavan",
+    "position": "Tech Director",
+    "hobby": "playing guitar"
+  },
+  {
+    "name": "Joseph Clegg",
+    "position": "Tech Member",
+    "hobby": "flying planes"
+  },
+  {
+    "name": "Lucy Huo",
+    "position": "Tech Member",
+    "hobby": "drawing faces"
+  },
+  {
+    "name": "Don Le",
+    "position": "Tech Member",
+    "hobby": "being sentimental"
+  }
+]
