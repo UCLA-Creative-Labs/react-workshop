@@ -6,7 +6,7 @@ import './styles/Card.scss';
 
 function Card(props: { profile: Profile }): JSX.Element {
   return (
-    <div>
+    <div className={'card'}>
     </div>
   );
 }
